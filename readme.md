@@ -10,6 +10,9 @@
  3. Vue
 
 ## Instalación
+`npm i txtcore`
+
+## Preparación
 
 Dentro del componente de Vue y dentro del template, debe colocarse el siguiente form con los siguientes atributos:
 ```
