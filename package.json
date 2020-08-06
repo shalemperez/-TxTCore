@@ -1,0 +1,19 @@
+{
+  "name": "txtcore",
+  "version": "1.0.0",
+  "description": "!TxtCore es un framework para la **facil** lectura y escritura de información hacia **Dynamics CRM 365 Online**, mediante la manipulación de etiquetas HTML en los diferentes atributos a utilizar. Este Framework ahorra desde un 80% a un 85% de tiempo en el creado de formularios.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/shalemperez/-TxTCore.git"
+  },
+  "author": "Shalem Perez",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/shalemperez/-TxTCore/issues"
+  },
+  "homepage": "https://github.com/shalemperez/-TxTCore#readme"
+}
